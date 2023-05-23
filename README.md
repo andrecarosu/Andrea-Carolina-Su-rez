@@ -31,7 +31,9 @@ Estoy emocionada por las nuevas oportunidades y desafíos que el futuro me depar
 
 
 whatsapp: +57 301 410 2103
+
 email: andrecarosu@gmail.com
+
 linkedin: https://www.linkedin.com/in/andrea-carolina-su%C3%A1rez-mesa-460861b9
 
 
