@@ -22,9 +22,9 @@ Bases de datos: MySQL, PostgreSQL, SQL Server.
 Frameworks: Sequelize, Node.js, React, Express.
 
 
-¡Estoy emocionada por las nuevas oportunidades y desafíos que el futuro me depara! Si estás interesado en colaborar o en conocer más sobre mi trabajo, no dudes en contactarme. Estoy ansiosa por conectar con profesionales del campo y aprender de ellos.
+Estoy emocionada por las nuevas oportunidades y desafíos que el futuro me depara. Si su empresa está en búsqueda de un profesional comprometido en el campo de la programación web y estuviera interesado en conocer más sobre mi trabajo, no dude en contactarme. Me encantaría explorar posibilidades de colaboración y contribuir al éxito de su equipo.
 
-¡Mucha gracias y saludos!
+¡Gracias por tu atención y saludos!
 
 
 whatsapp: +57 301 410 2103
