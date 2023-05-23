@@ -5,7 +5,7 @@
 
 ¿Quién soy?
 
-Soy una apasionada de la programación web con trece años de experiencia en el campo de los sistemas informáticos. Durante mi trayectoria, he tenido la oportunidad de explorar diversas áreas de la tecnología, pero mi verdadero interés siempre ha sido la programación y, en particular.
+Soy una apasionada de la programación con diez años de experiencia en el campo de los sistemas informáticos. Durante mi trayectoria, he tenido la oportunidad de explorar diversas áreas de la tecnología, pero mi verdadero interés siempre ha sido la programación.
 
 ¿Qué hago?
 
