@@ -5,7 +5,7 @@
 
 ¿Quién soy?
 
-Soy una apasionada de la programación web con trece años de experiencia en el campo de los sistemas informáticos. Durante mi trayectoria, he tenido la oportunidad de explorar diversas áreas de la tecnología, pero mi verdadero interés siempre ha sido la programación y, en particular, la programación web.
+Soy una apasionada de la programación web con trece años de experiencia en el campo de los sistemas informáticos. Durante mi trayectoria, he tenido la oportunidad de explorar diversas áreas de la tecnología, pero mi verdadero interés siempre ha sido la programación y, en particular.
 
 ¿Qué hago?
 
@@ -13,7 +13,7 @@ Recientemente, he finalizado exitosamente un curso de programación web y actual
 
 ¿Hacia dónde me dirijo?
 
-Mi objetivo principal es obtener una oportunidad laboral en una empresa que me brinde un entorno propicio para mi crecimiento profesional. Aspiro a continuar expandiendo mis conocimientos y habilidades en el campo de la programación web, colaborando con equipos talentosos y enfrentando desafíos estimulantes.
+Mi objetivo principal es obtener una oportunidad laboral en una empresa que me brinde un entorno propicio para mi crecimiento profesional. Aspiro a continuar expandiendo mis conocimientos y habilidades en el campo de la programación, colaborando con equipos talentosos y enfrentando desafíos estimulantes.
 
 ¿Qué tecnologías manejo?
 
@@ -22,7 +22,7 @@ Bases de datos: MySQL, PostgreSQL, SQL Server.
 Frameworks: Sequelize, Node.js, React, Express.
 
 
-Estoy emocionada por las nuevas oportunidades y desafíos que el futuro me depara. Si su empresa está en búsqueda de un profesional comprometido en el campo de la programación web y estuviera interesado en conocer más sobre mi trabajo, no dude en contactarme. Me encantaría explorar posibilidades de colaboración y contribuir al éxito de su equipo.
+Estoy emocionada por las nuevas oportunidades y desafíos que el futuro me depara. Si su empresa está en búsqueda de un profesional comprometido en el campo de la programación y estuviera interesado en conocer más sobre mi trabajo, no dude en contactarme. Me encantaría explorar posibilidades de colaboración y contribuir al éxito de su equipo.
 
 ¡Gracias por tu atención y saludos!
 
