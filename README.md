@@ -9,7 +9,7 @@ Soy una apasionada de la programación con diez años de experiencia en el campo
 
 ¿Qué hago?
 
-Recientemente, he finalizado exitosamente un curso de programación web y actualmente estoy embarcada en un nuevo curso de inglés y de Python. Además, me encuentro desarrollando un emocionante proyecto web que planeo lanzar al público en los próximos meses.
+Recientemente, he finalizado exitosamente un curso de programación web full stack en el bootcamp de Henry y actualmente estoy realizando dos nuevos cursos uno de inglés y otro de PHP. Además, me encuentro desarrollando una aplicación web que planeo lanzar al mercado en los próximos meses.
 
 ¿Hacia dónde me dirijo?
 
@@ -17,7 +17,7 @@ Mi objetivo principal es obtener una oportunidad laboral en una empresa que me b
 
 ¿Qué tecnologías manejo?
 
-Lenguajes: SQL, JavaScript, CSS3, HTML5, Node.js.
+Lenguajes: SQL, JavaScript, CSS3, HTML5, Php.
 
 Bases de datos: MySQL, PostgreSQL, SQL Server.
 
