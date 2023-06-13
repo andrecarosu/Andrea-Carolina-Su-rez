@@ -29,12 +29,15 @@ Estoy emocionada por las nuevas oportunidades y desafíos que el futuro me depar
 
 ¡Gracias por su atención y saludos!
 
+mi portafolio: https://portfolio-omega-bice-95.vercel.app
 
 whatsapp: +57 301 410 2103
 
 email: andrecarosu@gmail.com
 
 linkedin: https://www.linkedin.com/in/andrea-carolina-su%C3%A1rez-mesa-460861b9
+
+
 
 
 
