@@ -5,7 +5,7 @@ adrecarosu
 
 ¿Quién soy?
 
-Me gusta la programación y el análisis de datos, cuento con diez años de experiencia en el campo de los sistemas informáticos. Durante mi trayectoria, he trabajado en varias áreas de la tecnología y siempre me ha llamado la atención todo lo relacionado con el área de desarrollo y el análisis de datos.
+Me gusta la programación y la ciencia de datos, cuento con diez años de experiencia en el campo de los sistemas informáticos. Durante mi trayectoria, he trabajado en varias áreas de la tecnología y siempre me ha llamado la atención todo lo relacionado con el área de desarrollo del software y las bases de datos.
 
 ¿Qué hago?
 
